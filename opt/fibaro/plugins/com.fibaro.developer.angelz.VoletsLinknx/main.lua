@@ -17,8 +17,6 @@ VoletsLinknx = VoletsLinknx(plugin.mainDeviceId)
 --! Array that contains functions assigned to user interface elements
 -- in view tab.
 uiBinding = {
---    ["Key_up"] = function() VoletsLinknx:Volet_up("up") end,
---   ["Key_down"] = function() VoletsLinknx:Volet_down() end
    ["Key_up"] = function() VoletsLinknx:set_val_knx(0) end,
    ["Key_down"] = function() VoletsLinknx:set_val_knx(100) end,
    ["slide_volet"] = function(eventArgs) VoletsLinknx:set_val_knx(eventArgs.values[1]) end

@@ -4,7 +4,8 @@
     <description></description>
     <element type="string" caption="IP NodeJs" name="ip_nodejs"/>
     <element type="string" caption="Port NodeJs" name="port_nodejs"/>
-    <element type="string" caption="Id Linknx" name="id_linknx"/>
+    <element type="string" caption="Id Linknx Valeur" name="id_linknx_val"/>
+    <element type="string" caption="Id Linknx stop" name="id_linknx_stop"/>
   </section>
   <section caption="Crédits" name="credit">
     <description>

@@ -22,6 +22,7 @@
       <label name="debug" caption="" weight="0.2"/>
     </horizontalLayout>
    
+   
   </page>
   <main/>
 </root>

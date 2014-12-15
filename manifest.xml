@@ -3,7 +3,7 @@
   <identifier>com.fibaro.developer.angelz.VoletsLinknx</identifier>
   <version>1.0</version>
   <name>VoletsLinknx</name>
-  <description>Gestion Volets Linknx</description>
+  <description>VoletsLinknx</description>
   <category>2</category>
   <compatibilities>
     <compatibility name="iPad"/>
